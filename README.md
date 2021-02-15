@@ -7,3 +7,8 @@ https://www.figma.com/file/VJlTJoHcHgRRfzKqpKoNjZ/Wireframing-%26-Membuat-UI?nod
 
 image resource:
 https://unsplash.com/photos/rs6E-EYN-x4
+
+Live Preview:
+https://andriannobella.github.io/SlicingFigma/
+
+
