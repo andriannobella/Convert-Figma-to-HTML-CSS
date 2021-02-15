@@ -1,5 +1,5 @@
 # SlicingFigma
-![Screenshot](https://github.com/andriannobella/SlicingFigma/blob/main/Preview-SIte.png)
+![Preview-Slicing-Figma-Website](https://github.com/andriannobella/SlicingFigma/blob/main/Preview-SIte.png)
 
 Today, I am learning how to slice design (figma) into html and css codes.
 
