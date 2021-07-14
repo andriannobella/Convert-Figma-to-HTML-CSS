@@ -13,6 +13,6 @@ https://www.figma.com/file/VJlTJoHcHgRRfzKqpKoNjZ/Wireframing-%26-Membuat-UI?nod
 https://unsplash.com/photos/rs6E-EYN-x4
 
 ## Live Preview:
-https://andriannobella.github.io/SlicingFigma/
+https://andriannobella.github.io/Convert-Figma-to-HTML-CSS/
 
 
